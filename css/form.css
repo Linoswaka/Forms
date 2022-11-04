@@ -35,7 +35,9 @@ select:focus, select:active, input:focus,input:active, input:focus + label, inpu
 							background:#FF9;
 							
 							}
-	
+	.req{
+		color: red;
+	}
 	
 
 	
