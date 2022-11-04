@@ -31,12 +31,11 @@ select:focus, select:active, input:focus,input:active, input:focus + label, inpu
 	color: #FFF !important;
 	content: !important;
 	background-color: #BB3D2F !important;}
-	#formcol1 input.reqfield {
+	#formcol1 input.reqfield  {
 							background:#FF9;
+							
 							}
-	.radio{
-		margin: 24px;
-	}
+	
 	
 
 	
